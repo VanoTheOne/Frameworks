@@ -13,16 +13,19 @@ describe('ChromeDriver website tests', () => {
     await driver.quit();
   });
 
-  it(`Should check the page titles and highlight title 'Chrome Extensions'`, async () => {
+  it(`Should check the page title 'ChromeDriver'`, async () => {
     const chromeDriverTitle = await driver.findElement(By.css('span.Rn3Z1b.C9DxTc'));
     expect(await chromeDriverTitle.getText()).to.equal('ChromeDriver');
+  });
+
+  it(`Should check the page title 'Chrome Extensions' and highlight it`, async () => {
     const enterButton = await driver.findElement(By.xpath('//div[@class="PsKE7e qV4dIc Qrrb5 YSH9J"]//a[text()="Chrome Extensions"]/parent::*[@jsaction="click:vHQTA(QwLHlb); keydown:mPuKz(QwLHlb);"]'));
     await enterButton.click();
     const highLightTitle = await driver.findElement(By.css('span.Rn3Z1b'));
     await driver.executeScript("arguments[0].style.backgroundColor = 'yellow'", highLightTitle);
     const chromeExtensionsTitle = await driver.findElement(By.css('h1[id="h.p_ID_13"] span.Rn3Z1b'));
     expect(await chromeExtensionsTitle.getText()).to.equal('Chrome Extensions');
-  });
+  })
 
   it(`Should check if the first link contains 'driver'`, async () => {
     const searchButton = await driver.findElement(By.css('div.RBEWZc'));

@@ -2,7 +2,7 @@ import { expect } from 'chai';
 import { Key } from 'webdriverio';
 
 describe(`Announcement Bar test`, async () => {
-  it(`Announcement should not be displayed after page refreshing`, async () => {
+  it(`Announcement should not be displayed after page refreshing if it was closed`, async () => {
     const closeAnnouncemebt = await $('button[aria-label="Close"]');
     await closeAnnouncemebt.click();
     await driver.refresh();
@@ -10,12 +10,35 @@ describe(`Announcement Bar test`, async () => {
   });
 });
 
-describe(`Switch theme test`, async () => {
-  it(`Should check if it dark theme was changed to light`, async () => {
-    const searchElement = await $('.clean-btn.toggleButton_gllP');
-    await searchElement.click();
-    const lightThemeAttribute = await $('html[data-theme="light"]').getAttribute('data-theme');
-    expect(lightThemeAttribute).to.equal('light');
+describe(`Switch light theme test`, async () => {
+  it(`Should change the light theme to the dark or viseversa`, async () => {
+    const currentMode = await $('html[data-theme]').getAttribute('data-theme');
+    if (currentMode === 'light') {
+      const searchElement = await $('.clean-btn.toggleButton_gllP');
+      await searchElement.click();
+      const lightThemeAttribute = await $('html[data-theme]').getAttribute('data-theme');
+      expect(lightThemeAttribute).to.equal('dark');
+    } else {
+      const searchElement = await $('.clean-btn.toggleButton_gllP');
+      await searchElement.click();
+      const lightThemeAttribute = await $('html[data-theme]').getAttribute('data-theme');
+      expect(lightThemeAttribute).to.equal('light');
+    }
+  });
+
+  it(`Should change the light theme to the dark or viseversa`, async () => {
+    const currentMode = await $('html[data-theme]').getAttribute('data-theme');
+    if (currentMode === 'dark') {
+      const searchElement = await $('.clean-btn.toggleButton_gllP');
+      await searchElement.click();
+      const lightThemeAttribute = await $('html[data-theme]').getAttribute('data-theme');
+      expect(lightThemeAttribute).to.equal('light');
+    } else {
+      const searchElement = await $('.clean-btn.toggleButton_gllP');
+      await searchElement.click();
+      const lightThemeAttribute = await $('html[data-theme]').getAttribute('data-theme');
+      expect(lightThemeAttribute).to.equal('dark');
+    }
   });
 });
 

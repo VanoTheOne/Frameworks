@@ -1,0 +1,24 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "lint": "eslint --debug ./ --fix",
+    "lint:write": "eslint ./ --fix && npm run pretty",
+    "pretty": "prettier --write */**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.1",
+    "eslint": "^8.56.0",
+    "prettier": "^3.1.1"
+  },
+  "devDependencies": {
+    "ci-info": "^4.0.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}

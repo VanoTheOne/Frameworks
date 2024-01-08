@@ -1,0 +1,165 @@
+{
+  "cookies": [
+    {
+      "name": "",
+      "value": "testcookie",
+      "domain": "www.filepicker.io",
+      "path": "/dialog/comm_iframe",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "",
+      "value": "testcookie",
+      "domain": "dialog.filepicker.io",
+      "path": "/dialog/comm_iframe",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_genius_ab_test_cohort",
+      "value": "35",
+      "domain": "genius.com",
+      "path": "/",
+      "expires": 1737563707.637384,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "genius_first_impression",
+      "value": "1703003703352",
+      "domain": "genius.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1703003703399.436618689",
+      "domain": ".genius.com",
+      "path": "/",
+      "expires": 1710779705,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mp_77967c52dc38186cc1aadebdd19e2a82_mixpanel",
+      "value": "%7B%22%24initial_referrer%22%3A%20%22%24direct%22%2C%22%24initial_referring_domain%22%3A%20%22%24direct%22%2C%22AMP%22%3A%20false%2C%22genius_platform%22%3A%20%22web%22%7D",
+      "domain": ".genius.com",
+      "path": "/",
+      "expires": 1734539703,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mp_mixpanel__c",
+      "value": "1",
+      "domain": ".genius.com",
+      "path": "/",
+      "expires": 1703090103,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_csrf_token",
+      "value": "C4%2BHT18YgNFzV1AyLFlk%2Bmuhi5IYuBZDbH6B%2FL5yNXs%3D",
+      "domain": ".genius.com",
+      "path": "/",
+      "expires": 1734626107.637282,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ab_tests_identifier",
+      "value": "6efc2603-82a7-4fd2-b627-27b6c3dfe023",
+      "domain": "genius.com",
+      "path": "/",
+      "expires": 1737563705.230216,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_credentials",
+      "value": "f016b2b5f8087dfd5c726955dd3821d7e1a9499a8e8228c42d6f1c6e1cc92bf4a434be2d4c83eab34186b5a1d42d553391d2819dc74c13066ea2121564dd470f%3A%3A21381146",
+      "domain": ".genius.com",
+      "path": "/",
+      "expires": 1710866105.550233,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "no_public_cache",
+      "value": "true",
+      "domain": ".genius.com",
+      "path": "/",
+      "expires": 1710866107.637089,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "flash",
+      "value": "%7B%7D",
+      "domain": "genius.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_rapgenius_session",
+      "value": "BAh7CToPc2Vzc2lvbl9pZEkiJTc5ZTVkMTBiNzIxMWMwYThiYjExNjg1ZTY2NTdhZmIwBjoGRUY6EF9jc3JmX3Rva2VuSSIxQzQrSFQxOFlnTkZ6VjFBeUxGbGsrbXVoaTVJWXVCWkRiSDZCL0w1eU5Ycz0GOwZGSSIVdXNlcl9jcmVkZW50aWFscwY7BlRJIgGAZjAxNmIyYjVmODA4N2RmZDVjNzI2OTU1ZGQzODIxZDdlMWE5NDk5YThlODIyOGM0MmQ2ZjFjNmUxY2M5MmJmNGE0MzRiZTJkNGM4M2VhYjM0MTg2YjVhMWQ0MmQ1NTMzOTFkMjgxOWRjNzRjMTMwNjZlYTIxMjE1NjRkZDQ3MGYGOwZUSSIYdXNlcl9jcmVkZW50aWFsc19pZAY7BlRpBBpARgE%3D--bc535daf36c4ca4b173f3e7eab550d3ca8972ec7",
+      "domain": ".genius.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://genius.com",
+      "localStorage": [
+        {
+          "name": "genius_wunderkind_segment",
+          "value": "0.8625706969816649"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1703003703396"
+        },
+        {
+          "name": "session_end_tracking_events",
+          "value": "[]"
+        },
+        {
+          "name": "ab_tests_version",
+          "value": "\"e36f65f4354837405d11261b86f084e8be42d16036a0b7061f863f47135e4f0c\""
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "ana_uid",
+          "value": "\"22f51ef5-138c-43b5-8d99-1137011e119b\""
+        }
+      ]
+    }
+  ]
+}

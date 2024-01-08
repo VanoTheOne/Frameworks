@@ -1,0 +1,343 @@
+{
+    "meta": {
+        "status": 200
+    },
+    "response": {
+        "annotation": {
+            "api_path": "/annotations/2688316",
+            "body": {
+                "dom": {
+                    "tag": "root",
+                    "children": [
+                        {
+                            "tag": "p",
+                            "children": [
+                                "“Snuff” was written about Corey Taylor’s ex-wife. These two lines describe how she shared everything with Corey, relieving herself of her thoughts. She spoke better than she listened, and Corey found himself hearing all her problems. She was absolved from her heavy thoughts, while he – being a better listener than speaker – was left to fester in his own troubles, while she neglected to inquire."
+                            ]
+                        },
+                        "",
+                        {
+                            "tag": "p",
+                            "children": [
+                                "She left him “with his sins”, because she never gave him the opportunity to get things off his chest."
+                            ]
+                        }
+                    ]
+                }
+            },
+            "comment_count": 8,
+            "community": true,
+            "custom_preview": null,
+            "has_voters": true,
+            "id": 2688316,
+            "pinned": false,
+            "share_url": "https://genius.com/2688316",
+            "source": null,
+            "state": "accepted",
+            "url": "https://genius.com/2688316/Slipknot-snuff/Bury-all-your-secrets-in-my-skin-come-away-with-innocence-and-leave-me-with-my-sins",
+            "verified": false,
+            "votes_total": 256,
+            "current_user_metadata": {
+                "permissions": [
+                    "vote",
+                    "propose_edit_to",
+                    "create_comment"
+                ],
+                "excluded_permissions": [
+                    "edit",
+                    "cosign",
+                    "uncosign",
+                    "destroy",
+                    "accept",
+                    "reject",
+                    "see_unreviewed",
+                    "clear_votes",
+                    "pin_to_profile",
+                    "unpin_from_profile",
+                    "update_source",
+                    "edit_custom_preview"
+                ],
+                "interactions": {
+                    "cosign": false,
+                    "pyong": false,
+                    "vote": null
+                },
+                "iq_by_action": {
+                    "accept": {
+                        "primary": {
+                            "multiplier": 1,
+                            "base": 10.0,
+                            "applicable": true
+                        }
+                    },
+                    "reject": {
+                        "primary": {
+                            "multiplier": 1,
+                            "base": 2.0,
+                            "applicable": true
+                        }
+                    },
+                    "delete": {
+                        "primary": {
+                            "multiplier": 1,
+                            "base": 5.0,
+                            "applicable": true
+                        }
+                    }
+                }
+            },
+            "authors": [
+                {
+                    "attribution": 0.7710843373493976,
+                    "pinned_role": null,
+                    "user": {
+                        "api_path": "/users/1236662",
+                        "avatar": {
+                            "tiny": {
+                                "url": "https://assets.genius.com/images/default_avatar_16.png?1703267156",
+                                "bounding_box": {
+                                    "width": 16,
+                                    "height": 16
+                                }
+                            },
+                            "thumb": {
+                                "url": "https://assets.genius.com/images/default_avatar_32.png?1703267156",
+                                "bounding_box": {
+                                    "width": 32,
+                                    "height": 32
+                                }
+                            },
+                            "small": {
+                                "url": "https://assets.genius.com/images/default_avatar_100.png?1703267156",
+                                "bounding_box": {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            },
+                            "medium": {
+                                "url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                                "bounding_box": {
+                                    "width": 300,
+                                    "height": 400
+                                }
+                            }
+                        },
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                        "human_readable_role_for_display": "Contributor",
+                        "id": 1236662,
+                        "iq": 3510,
+                        "login": "mralexnorton",
+                        "name": "mralexnorton",
+                        "role_for_display": "contributor",
+                        "url": "https://genius.com/mralexnorton",
+                        "current_user_metadata": {
+                            "permissions": [
+                                "follow"
+                            ],
+                            "excluded_permissions": [],
+                            "interactions": {
+                                "following": false
+                            }
+                        }
+                    }
+                },
+                {
+                    "attribution": 0.1927710843373494,
+                    "pinned_role": null,
+                    "user": {
+                        "api_path": "/users/409608",
+                        "avatar": {
+                            "tiny": {
+                                "url": "https://images.rapgenius.com/avatars/tiny/96389c6d06016226d7f05a9e357b3759",
+                                "bounding_box": {
+                                    "width": 16,
+                                    "height": 16
+                                }
+                            },
+                            "thumb": {
+                                "url": "https://images.rapgenius.com/avatars/thumb/96389c6d06016226d7f05a9e357b3759",
+                                "bounding_box": {
+                                    "width": 32,
+                                    "height": 32
+                                }
+                            },
+                            "small": {
+                                "url": "https://images.rapgenius.com/avatars/small/96389c6d06016226d7f05a9e357b3759",
+                                "bounding_box": {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            },
+                            "medium": {
+                                "url": "https://images.rapgenius.com/avatars/medium/96389c6d06016226d7f05a9e357b3759",
+                                "bounding_box": {
+                                    "width": 300,
+                                    "height": 400
+                                }
+                            }
+                        },
+                        "header_image_url": "https://images.rapgenius.com/avatars/medium/96389c6d06016226d7f05a9e357b3759",
+                        "human_readable_role_for_display": "Contributor",
+                        "id": 409608,
+                        "iq": 538,
+                        "login": "StefanIlic",
+                        "name": "StefanIlic",
+                        "role_for_display": "contributor",
+                        "url": "https://genius.com/StefanIlic",
+                        "current_user_metadata": {
+                            "permissions": [
+                                "follow"
+                            ],
+                            "excluded_permissions": [],
+                            "interactions": {
+                                "following": false
+                            }
+                        }
+                    }
+                },
+                {
+                    "attribution": 0.024096385542168676,
+                    "pinned_role": null,
+                    "user": {
+                        "api_path": "/users/1793633",
+                        "avatar": {
+                            "tiny": {
+                                "url": "https://images.genius.com/avatars/tiny/402f982c45c1335b41012bd7b096eac5",
+                                "bounding_box": {
+                                    "width": 16,
+                                    "height": 16
+                                }
+                            },
+                            "thumb": {
+                                "url": "https://images.genius.com/avatars/thumb/402f982c45c1335b41012bd7b096eac5",
+                                "bounding_box": {
+                                    "width": 32,
+                                    "height": 32
+                                }
+                            },
+                            "small": {
+                                "url": "https://images.genius.com/avatars/small/402f982c45c1335b41012bd7b096eac5",
+                                "bounding_box": {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            },
+                            "medium": {
+                                "url": "https://images.genius.com/avatars/medium/402f982c45c1335b41012bd7b096eac5",
+                                "bounding_box": {
+                                    "width": 300,
+                                    "height": 400
+                                }
+                            }
+                        },
+                        "header_image_url": "https://images.genius.com/avatars/medium/402f982c45c1335b41012bd7b096eac5",
+                        "human_readable_role_for_display": "Editor",
+                        "id": 1793633,
+                        "iq": 128963,
+                        "login": "Nettacki",
+                        "name": "Nettacki",
+                        "role_for_display": "editor",
+                        "url": "https://genius.com/Nettacki",
+                        "current_user_metadata": {
+                            "permissions": [
+                                "follow"
+                            ],
+                            "excluded_permissions": [],
+                            "interactions": {
+                                "following": false
+                            }
+                        }
+                    }
+                },
+                {
+                    "attribution": 0.012048192771084338,
+                    "pinned_role": null,
+                    "user": {
+                        "api_path": "/users/7506682",
+                        "avatar": {
+                            "tiny": {
+                                "url": "https://images.genius.com/avatars/tiny/7b829e9271244bc3d9c825f9a994d69a",
+                                "bounding_box": {
+                                    "width": 16,
+                                    "height": 16
+                                }
+                            },
+                            "thumb": {
+                                "url": "https://images.genius.com/avatars/thumb/7b829e9271244bc3d9c825f9a994d69a",
+                                "bounding_box": {
+                                    "width": 32,
+                                    "height": 32
+                                }
+                            },
+                            "small": {
+                                "url": "https://images.genius.com/avatars/small/7b829e9271244bc3d9c825f9a994d69a",
+                                "bounding_box": {
+                                    "width": 100,
+                                    "height": 100
+                                }
+                            },
+                            "medium": {
+                                "url": "https://images.genius.com/avatars/medium/7b829e9271244bc3d9c825f9a994d69a",
+                                "bounding_box": {
+                                    "width": 300,
+                                    "height": 400
+                                }
+                            }
+                        },
+                        "header_image_url": "https://images.genius.com/avatars/medium/7b829e9271244bc3d9c825f9a994d69a",
+                        "human_readable_role_for_display": null,
+                        "id": 7506682,
+                        "iq": 109,
+                        "login": "HarteQuimby",
+                        "name": "HarteQuimby",
+                        "role_for_display": null,
+                        "url": "https://genius.com/HarteQuimby",
+                        "current_user_metadata": {
+                            "permissions": [
+                                "follow"
+                            ],
+                            "excluded_permissions": [],
+                            "interactions": {
+                                "following": false
+                            }
+                        }
+                    }
+                }
+            ],
+            "cosigned_by": [],
+            "rejection_comment": null,
+            "verified_by": null
+        },
+        "referent": {
+            "_type": "referent",
+            "annotator_id": 409608,
+            "annotator_login": "StefanIlic",
+            "api_path": "/referents/2688316",
+            "classification": "accepted",
+            "fragment": "Bury all your secrets in my skin\n Come away with innocence, and leave me with my sins",
+            "id": 2688316,
+            "is_description": false,
+            "path": "/2688316/Slipknot-snuff/Bury-all-your-secrets-in-my-skin-come-away-with-innocence-and-leave-me-with-my-sins",
+            "range": {
+                "content": "Bury all your secrets in my skin\n Come away with innocence, and leave me with my sins"
+            },
+            "song_id": 73687,
+            "url": "https://genius.com/2688316/Slipknot-snuff/Bury-all-your-secrets-in-my-skin-come-away-with-innocence-and-leave-me-with-my-sins",
+            "verified_annotator_ids": [],
+            "annotatable": {
+                "api_path": "/songs/73687",
+                "client_timestamps": {
+                    "updated_by_human_at": 1701582054,
+                    "lyrics_updated_at": 1701582054
+                },
+                "context": "Slipknot",
+                "id": 73687,
+                "image_url": "https://images.genius.com/c686cbac92a173604727f2be72c85cc2.770x770x1.jpg",
+                "link_title": "Snuff by Slipknot",
+                "title": "Snuff",
+                "type": "Song",
+                "url": "https://genius.com/Slipknot-snuff-lyrics"
+            }
+        }
+    }
+}

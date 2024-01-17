@@ -1,0 +1,627 @@
+{
+  "meta": {
+      "status": 200
+  },
+  "response": {
+      "song": {
+          "annotation_count": 7,
+          "api_path": "/songs/10000",
+          "apple_music_id": null,
+          "apple_music_player_url": "https://genius.com/songs/10000/apple_music_player",
+          "artist_names": "Big Pun",
+          "description": {
+              "dom": {
+                  "tag": "root",
+                  "children": [
+                      {
+                          "tag": "p",
+                          "children": [
+                              "?"
+                          ]
+                      }
+                  ]
+              }
+          },
+          "embed_content": "<div id='rg_embed_link_10000' class='rg_embed_link' data-song-id='10000'>Read <a href='https://genius.com/Big-pun-watch-those-lyrics'>“Watch Those” by Big Pun</a> on Genius</div> <script crossorigin src='//genius.com/songs/10000/embed.js'></script>",
+          "featured_video": false,
+          "full_title": "Watch Those by Big Pun",
+          "header_image_thumbnail_url": "https://images.genius.com/b70930fc56c82c3038f706c659b43fc6.300x300x1.jpg",
+          "header_image_url": "https://images.genius.com/b70930fc56c82c3038f706c659b43fc6.500x500x1.jpg",
+          "id": 10000,
+          "language": "en",
+          "lyrics_owner_id": 50,
+          "lyrics_placeholder_reason": null,
+          "lyrics_state": "complete",
+          "path": "/Big-pun-watch-those-lyrics",
+          "pyongs_count": null,
+          "recording_location": null,
+          "relationships_index_url": "https://genius.com/Big-pun-watch-those-sample",
+          "release_date": "2000-04-04",
+          "release_date_for_display": "April 4, 2000",
+          "release_date_with_abbreviated_month_for_display": "Apr. 4, 2000",
+          "song_art_image_thumbnail_url": "https://images.genius.com/b70930fc56c82c3038f706c659b43fc6.300x300x1.jpg",
+          "song_art_image_url": "https://images.genius.com/b70930fc56c82c3038f706c659b43fc6.500x500x1.jpg",
+          "stats": {
+              "accepted_annotations": 0,
+              "contributors": 14,
+              "iq_earners": 14,
+              "transcribers": 0,
+              "unreviewed_annotations": 7,
+              "verified_annotations": 0,
+              "hot": false,
+              "pageviews": 8116
+          },
+          "title": "Watch Those",
+          "title_with_featured": "Watch Those",
+          "url": "https://genius.com/Big-pun-watch-those-lyrics",
+          "current_user_metadata": {
+              "permissions": [
+                  "follow",
+                  "see_pageviews",
+                  "pyong",
+                  "add_community_annotation_to",
+                  "view_apple_music_player",
+                  "create_comment",
+                  "create_annotation",
+                  "view_song_story_gallery",
+                  "propose_lyrics_edit",
+                  "create_question"
+              ],
+              "excluded_permissions": [
+                  "award_transcription_iq",
+                  "remove_transcription_iq",
+                  "edit_lyrics",
+                  "view_annotation_engagement_data",
+                  "publish",
+                  "unpublish",
+                  "edit_spotify_details",
+                  "hide",
+                  "unhide",
+                  "toggle_featured_video",
+                  "add_pinned_annotation_to",
+                  "destroy",
+                  "mark_as_not_spam",
+                  "edit_spotify_annotations_for",
+                  "verify_lyrics",
+                  "unverify_lyrics",
+                  "edit_anything",
+                  "edit_any_media",
+                  "edit",
+                  "rename",
+                  "edit_tags",
+                  "reindex",
+                  "view_lyrics_synchronization",
+                  "enable_media",
+                  "disable_media",
+                  "edit_lyrics_or_annotation_brackets",
+                  "see_editorial_indicators",
+                  "view_attribution_visualization",
+                  "edit_annotation_brackets",
+                  "preview_lyrics_for_export",
+                  "hide_apple_player",
+                  "unhide_apple_player",
+                  "trigger_apple_match",
+                  "mark_lyrics_evaluation_as_complete",
+                  "mark_lyrics_evaluation_as_staff_approved",
+                  "unmark_lyrics_evaluation_as_complete",
+                  "mark_lyrics_evaluation_as_un_staff_approved",
+                  "view_transcriber_media_player",
+                  "override_apple_match",
+                  "set_song_color_gradient",
+                  "mark_as_hot",
+                  "unmark_as_hot",
+                  "view_recommendations",
+                  "view_relationships_page",
+                  "use_mark_complete_button",
+                  "edit_youtube_url",
+                  "edit_soundcloud_url",
+                  "edit_spotify_uuid",
+                  "edit_vevo_url",
+                  "moderate_annotations",
+                  "see_short_id",
+                  "manage_chart_item",
+                  "create_tag",
+                  "view_lyrics_edit_proposals_on_song",
+                  "answer_question_with_source",
+                  "moderate_question"
+              ],
+              "interactions": {
+                  "pyong": false,
+                  "following": false
+              },
+              "relationships": {
+                  "pinned_role": null
+              },
+              "iq_by_action": {
+                  "edit_metadata": {
+                      "primary": {
+                          "multiplier": 1,
+                          "base": 2.0,
+                          "applicable": true
+                      }
+                  },
+                  "answer_question": {
+                      "primary": {
+                          "multiplier": 1,
+                          "base": 5.0,
+                          "applicable": true
+                      }
+                  }
+              }
+          },
+          "album": {
+              "api_path": "/albums/787",
+              "cover_art_url": "https://images.genius.com/b70930fc56c82c3038f706c659b43fc6.500x500x1.jpg",
+              "full_title": "Yeeeah Baby by Big Pun",
+              "id": 787,
+              "name": "Yeeeah Baby",
+              "release_date_for_display": "April 4, 2000",
+              "url": "https://genius.com/albums/Big-pun/Yeeeah-baby",
+              "artist": {
+                  "api_path": "/artists/161",
+                  "header_image_url": "https://images.genius.com/ab8a73951e0de5d3447eeefaa8fcde2f.640x424x1.jpg",
+                  "id": 161,
+                  "image_url": "https://images.genius.com/b245dff946be15239da702e083f68370.752x752x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Big Pun",
+                  "url": "https://genius.com/artists/Big-pun"
+              }
+          },
+          "custom_performances": [
+              {
+                  "label": "Phonographic Copyright ℗",
+                  "artists": [
+                      {
+                          "api_path": "/artists/1047258",
+                          "header_image_url": "https://images.genius.com/111f5d2bfd17a71d9faf077baf6f1a41.264x264x1.jpg",
+                          "id": 1047258,
+                          "image_url": "https://images.genius.com/111f5d2bfd17a71d9faf077baf6f1a41.264x264x1.jpg",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Loud Records",
+                          "url": "https://genius.com/artists/Loud-records"
+                      }
+                  ]
+              },
+              {
+                  "label": "Copyright ©",
+                  "artists": [
+                      {
+                          "api_path": "/artists/1047258",
+                          "header_image_url": "https://images.genius.com/111f5d2bfd17a71d9faf077baf6f1a41.264x264x1.jpg",
+                          "id": 1047258,
+                          "image_url": "https://images.genius.com/111f5d2bfd17a71d9faf077baf6f1a41.264x264x1.jpg",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Loud Records",
+                          "url": "https://genius.com/artists/Loud-records"
+                      }
+                  ]
+              },
+              {
+                  "label": "Mastered at",
+                  "artists": [
+                      {
+                          "api_path": "/artists/655230",
+                          "header_image_url": "https://images.genius.com/11e3a16b389659915e9585883e324a85.850x315x1.jpg",
+                          "id": 655230,
+                          "image_url": "https://images.genius.com/11e3a16b389659915e9585883e324a85.850x315x1.jpg",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Sterling Sound Studio",
+                          "url": "https://genius.com/artists/Sterling-sound-studio"
+                      }
+                  ]
+              },
+              {
+                  "label": "Mastering Engineer",
+                  "artists": [
+                      {
+                          "api_path": "/artists/396012",
+                          "header_image_url": "https://images.genius.com/af14099731b377463d798965fef794cf.1000x536x1.jpg",
+                          "id": 396012,
+                          "image_url": "https://images.genius.com/6dcc9ef17462337ef8cc4069a8a036f6.312x312x1.jpg",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Tom Coyne",
+                          "url": "https://genius.com/artists/Tom-coyne"
+                      },
+                      {
+                          "api_path": "/artists/198492",
+                          "header_image_url": "https://images.genius.com/406abf0c9d060f38d200ca405d3fdb67.450x450x1.png",
+                          "id": 198492,
+                          "image_url": "https://images.genius.com/f1be92e994e74685355891765b3eaf63.488x488x1.jpg",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Chris Gehringer",
+                          "url": "https://genius.com/artists/Chris-gehringer"
+                      }
+                  ]
+              },
+              {
+                  "label": "Recording",
+                  "artists": [
+                      {
+                          "api_path": "/artists/981802",
+                          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "id": 981802,
+                          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Soundboy",
+                          "url": "https://genius.com/artists/Soundboy"
+                      }
+                  ]
+              },
+              {
+                  "label": "Mixing",
+                  "artists": [
+                      {
+                          "api_path": "/artists/58085",
+                          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "id": 58085,
+                          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Christos Tsantilis",
+                          "url": "https://genius.com/artists/Christos-tsantilis"
+                      }
+                  ]
+              },
+              {
+                  "label": "Assistant mixing",
+                  "artists": [
+                      {
+                          "api_path": "/artists/981813",
+                          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "id": 981813,
+                          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Mike Hengeli",
+                          "url": "https://genius.com/artists/Mike-hengeli"
+                      },
+                      {
+                          "api_path": "/artists/981812",
+                          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "id": 981812,
+                          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Victor Mancusi",
+                          "url": "https://genius.com/artists/Victor-mancusi"
+                      }
+                  ]
+              },
+              {
+                  "label": "Guitar By",
+                  "artists": [
+                      {
+                          "api_path": "/artists/855759",
+                          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "id": 855759,
+                          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Joe Davi",
+                          "url": "https://genius.com/artists/Joe-davi"
+                      }
+                  ]
+              },
+              {
+                  "label": "Edited By",
+                  "artists": [
+                      {
+                          "api_path": "/artists/643304",
+                          "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "id": 643304,
+                          "image_url": "https://assets.genius.com/images/default_avatar_300.png?1703267156",
+                          "is_meme_verified": false,
+                          "is_verified": false,
+                          "name": "Blair Wells",
+                          "url": "https://genius.com/artists/Blair-wells"
+                      }
+                  ]
+              }
+          ],
+          "description_annotation": {
+              "_type": "referent",
+              "annotator_id": 50,
+              "annotator_login": "AlysonWonderland",
+              "api_path": "/referents/7320891",
+              "classification": "needs_exegesis",
+              "fragment": "Watch Those",
+              "id": 7320891,
+              "is_description": true,
+              "path": "/7320891/Big-pun-watch-those/Watch-those",
+              "range": {
+                  "content": "Watch Those"
+              },
+              "song_id": 10000,
+              "url": "https://genius.com/7320891/Big-pun-watch-those/Watch-those",
+              "verified_annotator_ids": [],
+              "annotatable": {
+                  "api_path": "/songs/10000",
+                  "client_timestamps": {
+                      "updated_by_human_at": 1655559584,
+                      "lyrics_updated_at": 1655559584
+                  },
+                  "context": "Big Pun",
+                  "id": 10000,
+                  "image_url": "https://images.genius.com/b70930fc56c82c3038f706c659b43fc6.500x500x1.jpg",
+                  "link_title": "Watch Those by Big Pun",
+                  "title": "Watch Those",
+                  "type": "Song",
+                  "url": "https://genius.com/Big-pun-watch-those-lyrics"
+              },
+              "annotations": [
+                  {
+                      "api_path": "/annotations/7320891",
+                      "body": {
+                          "dom": {
+                              "tag": "root"
+                          }
+                      },
+                      "comment_count": 0,
+                      "community": true,
+                      "custom_preview": null,
+                      "has_voters": false,
+                      "id": 7320891,
+                      "pinned": false,
+                      "share_url": "https://genius.com/7320891",
+                      "source": null,
+                      "state": "needs_exegesis",
+                      "url": "https://genius.com/7320891/Big-pun-watch-those/Watch-those",
+                      "verified": false,
+                      "votes_total": 0,
+                      "current_user_metadata": {
+                          "permissions": [],
+                          "excluded_permissions": [
+                              "vote",
+                              "edit",
+                              "cosign",
+                              "uncosign",
+                              "destroy",
+                              "accept",
+                              "reject",
+                              "see_unreviewed",
+                              "clear_votes",
+                              "propose_edit_to",
+                              "pin_to_profile",
+                              "unpin_from_profile",
+                              "update_source",
+                              "edit_custom_preview",
+                              "create_comment"
+                          ],
+                          "interactions": {
+                              "cosign": false,
+                              "pyong": false,
+                              "vote": null
+                          },
+                          "iq_by_action": {
+                              "accept": {
+                                  "primary": {
+                                      "multiplier": 1,
+                                      "base": 10.0,
+                                      "applicable": true
+                                  }
+                              },
+                              "reject": {
+                                  "primary": {
+                                      "multiplier": 1,
+                                      "base": 2.0,
+                                      "applicable": true
+                                  }
+                              },
+                              "delete": {
+                                  "primary": {
+                                      "multiplier": 1,
+                                      "base": 5.0,
+                                      "applicable": true
+                                  }
+                              }
+                          }
+                      },
+                      "authors": [
+                          {
+                              "attribution": 1.0,
+                              "pinned_role": null,
+                              "user": {
+                                  "api_path": "/users/50",
+                                  "avatar": {
+                                      "tiny": {
+                                          "url": "https://images.rapgenius.com/avatars/tiny/f815fe8f1b9c915e5b77e6089431c771",
+                                          "bounding_box": {
+                                              "width": 16,
+                                              "height": 16
+                                          }
+                                      },
+                                      "thumb": {
+                                          "url": "https://images.rapgenius.com/avatars/thumb/f815fe8f1b9c915e5b77e6089431c771",
+                                          "bounding_box": {
+                                              "width": 32,
+                                              "height": 32
+                                          }
+                                      },
+                                      "small": {
+                                          "url": "https://images.rapgenius.com/avatars/small/f815fe8f1b9c915e5b77e6089431c771",
+                                          "bounding_box": {
+                                              "width": 100,
+                                              "height": 100
+                                          }
+                                      },
+                                      "medium": {
+                                          "url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+                                          "bounding_box": {
+                                              "width": 300,
+                                              "height": 400
+                                          }
+                                      }
+                                  },
+                                  "header_image_url": "https://images.rapgenius.com/avatars/medium/f815fe8f1b9c915e5b77e6089431c771",
+                                  "human_readable_role_for_display": "Contributor",
+                                  "id": 50,
+                                  "iq": 3892,
+                                  "login": "AlysonWonderland",
+                                  "name": "AlysonWonderland",
+                                  "role_for_display": "contributor",
+                                  "url": "https://genius.com/AlysonWonderland",
+                                  "current_user_metadata": {
+                                      "permissions": [
+                                          "follow"
+                                      ],
+                                      "excluded_permissions": [],
+                                      "interactions": {
+                                          "following": false
+                                      }
+                                  }
+                              }
+                          }
+                      ],
+                      "cosigned_by": [],
+                      "rejection_comment": null,
+                      "verified_by": null
+                  }
+              ]
+          },
+          "featured_artists": [],
+          "lyrics_marked_complete_by": null,
+          "lyrics_marked_staff_approved_by": null,
+          "media": [
+              {
+                  "native_uri": "spotify:track:4mdFABwsKbGIFJJSwDuBRh",
+                  "provider": "spotify",
+                  "type": "audio",
+                  "url": "https://open.spotify.com/track/4mdFABwsKbGIFJJSwDuBRh"
+              },
+              {
+                  "provider": "youtube",
+                  "start": 0,
+                  "type": "video",
+                  "url": "http://www.youtube.com/watch?v=jny1v0QVCBI"
+              }
+          ],
+          "primary_artist": {
+              "api_path": "/artists/161",
+              "header_image_url": "https://images.genius.com/ab8a73951e0de5d3447eeefaa8fcde2f.640x424x1.jpg",
+              "id": 161,
+              "image_url": "https://images.genius.com/b245dff946be15239da702e083f68370.752x752x1.jpg",
+              "is_meme_verified": false,
+              "is_verified": false,
+              "name": "Big Pun",
+              "url": "https://genius.com/artists/Big-pun"
+          },
+          "producer_artists": [
+              {
+                  "api_path": "/artists/27507",
+                  "header_image_url": "https://images.genius.com/4fb8716e42b494c6cae9cf52a8f5406c.234x234x1.jpg",
+                  "id": 27507,
+                  "image_url": "https://images.genius.com/4fb8716e42b494c6cae9cf52a8f5406c.234x234x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Knobody",
+                  "url": "https://genius.com/artists/Knobody"
+              }
+          ],
+          "song_relationships": [
+              {
+                  "relationship_type": "samples",
+                  "type": "samples",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "sampled_in",
+                  "type": "sampled_in",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "interpolates",
+                  "type": "interpolates",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "interpolated_by",
+                  "type": "interpolated_by",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "cover_of",
+                  "type": "cover_of",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "covered_by",
+                  "type": "covered_by",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "remix_of",
+                  "type": "remix_of",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "remixed_by",
+                  "type": "remixed_by",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "live_version_of",
+                  "type": "live_version_of",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "performed_live_as",
+                  "type": "performed_live_as",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "translation_of",
+                  "type": "translation_of",
+                  "songs": []
+              },
+              {
+                  "relationship_type": "translations",
+                  "type": "translations",
+                  "songs": []
+              }
+          ],
+          "translation_songs": [],
+          "verified_annotations_by": [],
+          "verified_contributors": [],
+          "verified_lyrics_by": [],
+          "writer_artists": [
+              {
+                  "api_path": "/artists/53278",
+                  "header_image_url": "https://images.genius.com/6e0b2bcb87f371e282656716f28056d8.500x607x1.jpg",
+                  "id": 53278,
+                  "image_url": "https://images.genius.com/15e4dea1f67d58bb99101ef0fa5f7da7.853x853x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Tom Scott",
+                  "url": "https://genius.com/artists/Tom-scott"
+              },
+              {
+                  "api_path": "/artists/27507",
+                  "header_image_url": "https://images.genius.com/4fb8716e42b494c6cae9cf52a8f5406c.234x234x1.jpg",
+                  "id": 27507,
+                  "image_url": "https://images.genius.com/4fb8716e42b494c6cae9cf52a8f5406c.234x234x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Knobody",
+                  "url": "https://genius.com/artists/Knobody"
+              },
+              {
+                  "api_path": "/artists/161",
+                  "header_image_url": "https://images.genius.com/ab8a73951e0de5d3447eeefaa8fcde2f.640x424x1.jpg",
+                  "id": 161,
+                  "image_url": "https://images.genius.com/b245dff946be15239da702e083f68370.752x752x1.jpg",
+                  "is_meme_verified": false,
+                  "is_verified": false,
+                  "name": "Big Pun",
+                  "url": "https://genius.com/artists/Big-pun"
+              }
+          ]
+      }
+  }
+}
